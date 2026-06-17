@@ -22,11 +22,11 @@ Sou um estudante de <strong>Informática para a Internet</strong> na <strong>Esc
 
 <div align="center">
 
-<a href=https://skills.yourlearning.ibm.com/certificate/share/3f2285e7fdewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDI1Nzc1UkVHIgp932872f43ec-10>
+<a href=" ">
     <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="220">
 </a>
 
-<a>
+<a href="https://skills.yourlearning.ibm.com/certificate/share/3f2285e7fdewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDI1Nzc1UkVHIgp932872f43ec-10">
     <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="220">
 </a>
 
