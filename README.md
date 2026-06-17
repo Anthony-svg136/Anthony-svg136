@@ -22,11 +22,11 @@ Sou um estudante de <strong>Informática para a Internet</strong> na <strong>Esc
 
 <div align="center">
 
-<a href="https://skills.yourlearning.ibm.com/certificate/share/eb094f8a88ewogICJvYmplY3RJZCIgOiAiUExBTi0zNzQ5QzcyMTE3RTIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9d33b6c4907-10">
+<a href=https://skills.yourlearning.ibm.com/certificate/share/3f2285e7fdewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDI1Nzc1UkVHIgp932872f43ec-10>
     <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="220">
 </a>
 
-<a href="https://skills.yourlearning.ibm.com/certificate/share/a4a62e0b26ewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJsZWFybmVyQ05VTSIgOiAiNzk3OTI5OFJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIgp9ccb6d2e563-10">
+<a>
     <img src="certificados/ibm-skillsbuild-bd.png" alt="Certificado 2" width="220">
 </a>
 
@@ -34,7 +34,7 @@ Sou um estudante de <strong>Informática para a Internet</strong> na <strong>Esc
     <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="220">
 </a>
 
-<a href="https://skills.yourlearning.ibm.com/certificate/share/ef430ea32bewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTc5Mjk4UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9b3be0777f1-10">
+<a>
     <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="220">
 </a>
 </div>
