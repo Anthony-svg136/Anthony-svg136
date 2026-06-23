@@ -22,7 +22,7 @@ Sou um estudante de <strong>Informática para a Internet</strong> na <strong>Esc
 
 <div align="center">
 
-<a href=" ">
+<a href="https://skills.yourlearning.ibm.com/certificate/share/803bf13fd5ewogICJsZWFybmVyQ05VTSIgOiAiODAyNTc3NVJFRyIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMzc0OUM3MjExN0UyIgp98c9063802e-10 ">
     <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="220">
 </a>
 
