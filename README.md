@@ -18,7 +18,7 @@ Sou um estudante de <strong>Informática para a Internet</strong> na <strong>Esc
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
 </div>
 
-<h1 align="center"> 💳 Certificados</h1>
+<h1 align="center">Certificados</h1>
 
 <div align="center">
 
