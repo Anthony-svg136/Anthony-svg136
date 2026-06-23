@@ -34,7 +34,7 @@ Sou um estudante de <strong>Informática para a Internet</strong> na <strong>Esc
     <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="220">
 </a>
 
-<a>
+<a href="https://skills.yourlearning.ibm.com/certificate/share/aa75e98f32ewogICJvYmplY3RJZCIgOiAiUExBTi1CMkRFNUM5MjdFRUMiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDI1Nzc1UkVHIgp9089f4a803a-10">>
     <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="220">
 </a>
 </div>
